@@ -1,4 +1,9 @@
 # 🏦 Bank Statement Processing & Classification System
+## 🚀 Live Demo
+
+**Try it here:** https://bank-statement-proces-sor.streamlit.app/
+
+> Note: OCR (scanned PDFs) is disabled in the demo. Text-based PDFs work fully.
 
 An end-to-end prototype that ingests bank statement PDFs (text-based **or** scanned), extracts account & transaction data, classifies transactions **without using any LLM**, and exports structured CSV / Excel files.
 
