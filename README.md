@@ -225,4 +225,4 @@ Given a real 4-page Standard Chartered statement (2019):
 
 **Er.Maharshi Shukla**  
 Data Science / AI Engineering  
-For Befree Global company as a submission for AI & Automation assessment round.
+Created as a submission for Befree Global company for AI & Automation assessment round.
