@@ -1,0 +1,9 @@
+pdfplumber
+pytesseract
+pdf2image
+pandas
+scikit-learn
+openpyxl
+streamlit
+pillow
+pytest
